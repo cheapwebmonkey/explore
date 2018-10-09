@@ -13,7 +13,9 @@ items:
  - SAP/sap.github.com
  - IBM/ibm.github.io
  - Microsoft/microsoft.github.io
- - artsy/artsy.github.io
+ - artsy/artsy.github.io  
+ - civicdata/civicdata.github.io  
+ - Data4Democracy/datafordemocracy.org  
 display_name: Open source organizations
 created_by: benbalter
 image: open-source-organizations.png
